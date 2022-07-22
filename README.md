@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hugo Sánchez Landaverde
-- 👀 I’m interested in backend development with languages such Java, Golang and Nodejs.
+- 👀 I’m interested in backend development with languages such as Java, Golang and Javascript.
 - 🌱 I’m currently learning React JS
 - 📫 You can reach me via email: is.hugosl@hotmail.com
 
