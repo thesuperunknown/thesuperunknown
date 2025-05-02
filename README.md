@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesuperunknown
-- 👀 I’m interested in cyber security, server administration, forensics, CTI and cyber security referrals for work
-- 🌱 I’m currently learning AWS Cloud Security and Security+ topics, SQL, Python, Bash, Pen Testing
+- 👀 I’m a Cybersecurity Analyst with a cert from Caltech, worked in IT prior, interested in opportunities in SOC, CTI, RTF, GRC, Red Team, Blue Team and IT Security and Forensics.
+- 🌱 I’m currently studying AWS Cloud Security, Security+ and Python for AI and SOC Analyst and reviewing Networking topics, SQL, Bash, Pen Testing
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: orangeyellowdog@gmail.com
 
